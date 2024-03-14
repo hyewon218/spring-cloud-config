@@ -1,0 +1,13 @@
+spring:  
+  datasource: #jpa 에서 자동으로 테이블 생성
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: '{cipher}572d1067ebe05d91c0fcd7ba1520aab3ba1a02fa52f67f5c5c8f929ab4cc3f6c'
+
+token:
+  expiration_time: 864000000 
+  secret: user_token_native_application_changed_#2
+
+gateway:
+  ip: 127.0.0.1
