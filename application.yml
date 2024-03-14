@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 
-  secret: user_token_native_application_changed_#2
+  secret: '{cipher}AQAjewIF3yA62AoMF0HEm940HYboFKAYXnGi5hXINBlOF0h0bv2vENzBl3YB/fvcgdCk6j49gKVNo7SJ6E/D7hHF0J+itQFuiwGFr1f9odZBUz90w/MpAsrcFxwWpRajZ1dskLYyECPNEFXsrkeFiMS1EmxEjJpthBypjmJ2xzatK0VPeW38OcxJSprFSvufvnAWG4tbSjMm9JvFto4ikN5zAzILQuRtML3I7SZrYDmrU096z9eVz+v8hpRX/uMpFd73Io7x8gwQ1CLHyKqBMs4PF8wJwYJZOa6Ru46UKZued2jessHctDeqJ55BYzrwcQWXtVyvN38EnwosGLn7znnzMWRaI7ByzGWTmNhmjf42kGeTGBz8Z49E0CxCNZ5R7APpBpK34+t2585b50pZvB0JwGLcIIRteIEzZO+te9aYJw=='
 
 gateway:
   ip: 127.0.0.1
