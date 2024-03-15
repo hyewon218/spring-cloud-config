@@ -13,4 +13,4 @@ gateway:
   ip: 127.0.0.1
 
 orders_service:
-  url: http://orders-service/orders-service/%s/orders
+  url: http://ORDERS-SERVICE/orders-service/%s/orders
