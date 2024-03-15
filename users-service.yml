@@ -14,3 +14,5 @@ gateway:
 
 orders_service:
   url: http://ORDERS-SERVICE/orders-service/%s/orders
+  exception:
+    orders_is_empty: There is no item.
